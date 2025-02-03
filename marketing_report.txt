@@ -1,0 +1,35 @@
+
+    Marketing Insights Report
+    =========================
+    
+    1. Top 3 Most Profitable Products:
+    PROD_NAME
+Dorito Corn Chp     Supreme            40352.0
+Smiths Crnkle Chip  Orgnl Big Bag      36367.6
+Smiths Crinkle Chips Salt & Vinegar    34804.2
+    
+    2. Loyal Customer Characteristics:
+    - Life Stage Distribution:
+    LIFESTAGE
+OLDER FAMILIES            0.369407
+YOUNG FAMILIES            0.311579
+OLDER SINGLES/COUPLES     0.123503
+RETIREES                  0.067190
+MIDAGE SINGLES/COUPLES    0.067052
+YOUNG SINGLES/COUPLES     0.060719
+NEW FAMILIES              0.000551
+    
+    - Premium Customer Distribution:
+    PREMIUM_CUSTOMER
+Budget        0.406857
+Mainstream    0.334848
+Premium       0.258295
+    
+    3. Hypothesis for Customer Preference:
+    Loyal customers primarily purchase Dorito Corn Chp     Supreme and similar products.
+    This preference might be driven by:
+    - Strong brand loyalty to particular snack brands
+    - Regular consumption patterns for these specific products
+    - Price sensitivity matching their customer segment
+    - Product availability in frequently visited stores
+    
